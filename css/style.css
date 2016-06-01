@@ -1,0 +1,74 @@
+#box {
+  text-align:center;
+  margin-left:10%;
+  margin-right:10%;
+}
+
+.LifeBox{
+  width:50%
+}
+#myLifeBox {
+  float:left;
+}
+#enemyLifeBox {
+  float:right;
+}
+
+.clear {
+  clear:both;
+}
+
+#mainBox {
+  height:326px;
+  margin:0;
+}
+
+.handBox{
+  width:50%;
+  height:160px;
+}
+#myhandBox {
+  float:left;
+}
+#enemyhandBox {
+  float:right;
+}
+
+#start {
+  width:37%;
+  float:left;
+  margin-top:10px;
+  cursor:pointer;
+}
+#replay {
+  width:37%;
+  float:right;
+  margin-top:10px;
+  cursor:pointer;
+}
+
+#startBox {
+  width:70%;
+  margin-left:15%;
+}
+
+.window {
+  font-size:1.8rem;
+  background:#fffacd;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.movetxt {
+  font-size:1.8rem;
+  background:#fffacd;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.hand {
+  width:100px;
+  margin-left:30px;
+  margin-right:30px;
+  cursor:pointer;
+}
